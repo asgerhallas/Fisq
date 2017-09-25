@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fisq", "Fisq\Fisq.csproj", "{B2B59AC6-48A3-422F-A664-243317895B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisq.Tests", "Fisq.Tests\Fisq.Tests.csproj", "{EE394C61-6DBB-4EEA-A56D-4BD675EBB1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B59AC6-48A3-422F-A664-243317895B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B59AC6-48A3-422F-A664-243317895B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B59AC6-48A3-422F-A664-243317895B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B59AC6-48A3-422F-A664-243317895B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE394C61-6DBB-4EEA-A56D-4BD675EBB1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE394C61-6DBB-4EEA-A56D-4BD675EBB1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE394C61-6DBB-4EEA-A56D-4BD675EBB1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE394C61-6DBB-4EEA-A56D-4BD675EBB1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169B2E5D-BC26-47E9-85BE-09B7E4A844E4}
+	EndGlobalSection
+EndGlobal

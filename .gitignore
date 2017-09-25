@@ -1,0 +1,8 @@
+.vs/
+*/bin/*
+*.suo
+*.user
+*/obj/*
+
+ESValidations/SerializedRulesForWeb/*
+ESValidations/SerializedRulesForMobile/*
